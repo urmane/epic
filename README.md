@@ -1,3 +1,3 @@
 # Epic
-
-Epic is a story-based table-top role-playing game.
+Epic is a story-based tabletop role-playing game that attempts to leverage Joseph Campbell's monomyth framework, or The Hero's Journey.
+## epic
