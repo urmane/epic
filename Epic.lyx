@@ -1091,13 +1091,10 @@ Agree on the type of game to be played, and associated character concepts.
  wine stewards, etc.?
 \end_layout
 
-<<<<<<< HEAD
 \begin_layout Section
 Player Character Death
 \end_layout
 
-=======
->>>>>>> a69591f94faf879205a9940d58372d9bebbc84e8
 \begin_layout Part
 Story and Characters
 \end_layout
@@ -1142,10 +1139,19 @@ So, there must be a way to detail state of perfection, establish the Loss,
 
 \begin_layout Standard
 Default to all protagonists vs antagonist(s), wherein they become allegories
- for the Theme, each Scene becomes 
+ for the Theme, two questions, each Scene becomes Which is bigger/better/stronge
+r/faster
+\end_layout
+
+\begin_layout Standard
+Tie story elements to mechanics, and vice-versa
 \end_layout
 
 \begin_layout Section
+Prologue
+\end_layout
+
+\begin_layout Subsection
 Choose A Focus
 \end_layout
 
@@ -1169,7 +1175,7 @@ The Focus should be something the Characters can have a direct connection
 Focus Example: The current king of the country to the North, King Skarl.
 \end_layout
 
-\begin_layout Section
+\begin_layout Subsection
 Establish Facts
 \end_layout
 
@@ -1340,7 +1346,7 @@ The GM may implement any method he chooses to allow players to establish
  the method and approval of them is completely up to the GM.
 \end_layout
 
-\begin_layout Section
+\begin_layout Subsection
 Establish Consequences
 \end_layout
 
@@ -1377,7 +1383,7 @@ Consequence to Fact 3: The King now controls the fabled Fire Opal mines
  of Bucas, making his fire-wielding Red Wizards universally feared.
 \end_layout
 
-\begin_layout Section
+\begin_layout Subsection
 Establish Tie-Ins
 \end_layout
 
@@ -1425,11 +1431,30 @@ Player Character 3 Tie-In: PC3 is an ex-Red Wizard, and is familiar with
 \end_layout
 
 \begin_layout Section
-Establish Goals
+Establish Perfect World
 \end_layout
 
 \begin_layout Standard
-Players select Goals for their Characters, based on their Tie-Ins.
+Players establish the original, perfect world for their characters, Before
+ All This Nonsense Started.
+\end_layout
+
+\begin_layout Subsection
+Focus Causes Loss
+\end_layout
+
+\begin_layout Standard
+The Focus is the cause of each character's Loss.
+ Establish one or more Facts for each character, and the players may establish
+ Consequences for those Facts.
+\end_layout
+
+\begin_layout Subsection
+Characters Establish Goals
+\end_layout
+
+\begin_layout Standard
+Players select Goals for their Characters, based on their Loss.
  The Character's Goal is their 
 \shape italic
 raison d'etre
@@ -1455,51 +1480,16 @@ Once a PC achieves his goal, his Story is over.
  He Rides Off Into The Sunset, to live Happily Ever After.
 \end_layout
 
+\begin_layout Standard
+
+\end_layout
+
 \begin_layout Section
 Character and Party Detail
 \end_layout
 
 \begin_layout Standard
-Flesh out the character and establish Relationships between party members
-\end_layout
-
-\begin_layout Itemize
-Establish the background of the character, Before All This Nonsense Started,
- as it were.
- 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Anatomy-of-20-Questions"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-These are a group of questions the players should use to flesh out their
- characters.
- They are designed to make the character more real, establish motivations,
- but are not enforced and do not dictate behavior.
-\end_layout
-
-\begin_layout Standard
-Personality and Background - type of clothing, distinguishing marks, foods,
- dreams
-\end_layout
-
-\begin_layout Standard
-Characters-specific hooks - spouse/children/family, best friend, enemies
-\end_layout
-
-\begin_layout Standard
-Highlight the campaign world - ties to specific places/people/groups/locations/h
-istory
-\end_layout
-
-\begin_layout Standard
-Set an emotional and moral baseline - situational: groups over friends/family,
- possessions, favorites
+Flesh out the character and establish Relationships between party members.
 \end_layout
 
 \begin_layout Section
@@ -1511,9 +1501,7 @@ FIXME: reorg this section
 \end_layout
 
 \begin_layout Standard
-The Prologue is a collaborative story-telling exercise to write the Story
- between the starting Facts and start of play.
- Some, none, or all of these can be determined during the Prologue:
+Some, none, or all of these can be determined during the Prologue:
 \end_layout
 
 \begin_layout Itemize
@@ -20431,6 +20419,67 @@ who, what, where, when
 
 \begin_layout Standard
 setup, showdown, follow the clues
+\end_layout
+
+\begin_layout Section
+Story Theme
+\end_layout
+
+\begin_layout Standard
+After the Loss and the players establish their Goals, the GM establishes
+ the Story Theme.
+ The Theme of the Story pits two questions against each other.
+ For instance, if the theme is ye olde Good Versus Evil, the two questions
+ might be 
+\begin_inset Quotes eld
+\end_inset
+
+Is Good stronger?
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+Is Evil stronger?
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Each Scene should be primarily aimed at proving one or the other of these.
+\end_layout
+
+\begin_layout Section
+Character Goals
+\end_layout
+
+\begin_layout Standard
+Players establish goals for their characters based on what they believe
+ their characters 
+\shape italic
+want
+\shape default
+.
+ However, to make the Story emotionally satisfying for the 
+\shape italic
+players
+\shape default
+, the GM must provide the characters what they 
+\shape italic
+need
+\shape default
+.
+\end_layout
+
+\begin_layout Section
+Dramatic Ending
+\end_layout
+
+\begin_layout Standard
+The dramatic last-minute ending.
+ Need a mechanic for time pressure of two things racing - mechanic? Or just
+ careful GMing?
 \end_layout
 
 \begin_layout Chapter
