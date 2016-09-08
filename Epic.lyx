@@ -1114,27 +1114,11 @@ name "chap:Story-Setup"
 The steps done in this chapter and the next overlap.
  FIXME: tighten this process up, removing vagueness.
  establish a set order, GM's can alter at will anyway.
- Note that part of this is Plotline setup, and the same process is done
- for new ones.
-\end_layout
-
-\begin_layout Standard
-My life was perfect...
-\end_layout
-
-\begin_layout Standard
-Loss - players must suffer loss, the bigger the better.
- Each player different, depending on Perfect
 \end_layout
 
 \begin_layout Standard
 Theme - GM must choose a theme -one shared? indiv? Shared I think, so scenes
- can advance
-\end_layout
-
-\begin_layout Standard
-So, there must be a way to detail state of perfection, establish the Loss,
- and select a theme, then Scenes can commence
+ can advance it
 \end_layout
 
 \begin_layout Standard
@@ -1144,7 +1128,21 @@ r/faster
 \end_layout
 
 \begin_layout Standard
-Tie story elements to mechanics, and vice-versa
+Tie story to mechanics, and vice-versa:
+\end_layout
+
+\begin_layout Standard
+narrate or declare Fact or describe X or you are what you do or attempted
+ / practiced move / combo move ==> mechanics impact
+\end_layout
+
+\begin_layout Standard
+mechanics -> story, bump if used
+\end_layout
+
+\begin_layout Standard
+not simple narration, too easy and vague, and not well-aligned with the
+ storyline
 \end_layout
 
 \begin_layout Section
@@ -1351,7 +1349,7 @@ Establish Consequences
 \end_layout
 
 \begin_layout Standard
-FIXME: make this less 1-for-1.
+FIXME: make this less 1-for-1?
 \end_layout
 
 \begin_layout Standard
@@ -1384,53 +1382,6 @@ Consequence to Fact 3: The King now controls the fabled Fire Opal mines
 \end_layout
 
 \begin_layout Subsection
-Establish Tie-Ins
-\end_layout
-
-\begin_layout Standard
-Each player character now establishes a Tie-In to one or more Facts.
- This is the beginning of each Character's Story, and is the first thing
- written in their Player Journal.
- It is the basis for conflict and Goals, and is the tension that drives
- the character to take part in this story.
-\end_layout
-
-\begin_layout Standard
-It is important to note that these Tie-Ins are not Facts - they resemble
- Facts, but do not hold the same standing.
- They do not have Consequences, and can be more general.
- They are specific to each Character's Story, and thus potentially malleable.
- They do not even have to be true throughout the adventure - changes or
- reveals to a character's basic conflict happen all the time (
-\begin_inset Quotes eld
-\end_inset
-
-Luke, I am your father ...
-\begin_inset Quotes erd
-\end_inset
-
-).
-\end_layout
-
-\begin_layout Standard
-Tie-In Examples:
-\end_layout
-
-\begin_layout Standard
-Player Character 1 Tie-In: PC1's father was murdered by King Skarl.
-\end_layout
-
-\begin_layout Standard
-Player Character 2 Tie-In: PC2's family in the Western Mountains was slain
- by Skarl in his youth.
-\end_layout
-
-\begin_layout Standard
-Player Character 3 Tie-In: PC3 is an ex-Red Wizard, and is familiar with
- the mines.
-\end_layout
-
-\begin_layout Section
 Establish Perfect World
 \end_layout
 
@@ -1439,14 +1390,18 @@ Players establish the original, perfect world for their characters, Before
  All This Nonsense Started.
 \end_layout
 
-\begin_layout Subsection
-Focus Causes Loss
+\begin_layout Section
+Loss
 \end_layout
 
 \begin_layout Standard
 The Focus is the cause of each character's Loss.
  Establish one or more Facts for each character, and the players may establish
  Consequences for those Facts.
+\end_layout
+
+\begin_layout Subsection
+Focus Causes the Loss
 \end_layout
 
 \begin_layout Subsection
